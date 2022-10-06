@@ -1,4 +1,4 @@
-- Sup, im Andres Benjamin
+- Hey, im Andres Benjamin
 - I like games, books and chess
 - First year student in computer technologies @ Tecnologico de Monterrey campus Guadalajara
 - I’m looking to collaborate on... anything please call me I swear I work hard please im on my knees at Walmart right now
