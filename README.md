@@ -34,7 +34,9 @@
   
   ##### I am currently aiming to reach ELO 1800 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
   <img src="https://lichess-readme-ten.vercel.app"> <img src="https://lichess-readme-f68v.vercel.app">
-  
+
+  <img src="https://lichess-game-readme-liart.vercel.app">
+
 
   ```
   # ♟︎ Chess.com Ratings Chart #
