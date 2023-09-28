@@ -8,7 +8,7 @@
   
   - 🐏 I’m currently im my second year of <b>Computer Science</b> at <b>Tecnológico de Monterrey </b>
   - 🖥️ I’m currently learning Machine Learning and AI
-  - 🔭 I REALLY like [Astronomy](https://youtu.be/9XFyngt1dk0?t=1268), and [Peanuts](https://www.chess.com/member/sciencepal)
+  - 🔭 I REALLY like [Astronomy](https://apod.nasa.gov/apod/astropix.html), and [Peanuts](https://www.peanuts.com/about/snoopy)
   - 🧠 Worked with <b>Convolutional Neural Networks</b>
   <img src="https://i.kym-cdn.com/photos/images/original/002/425/749/210" alt="My mission" align="right" width="200" height="auto" />
   
