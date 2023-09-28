@@ -6,17 +6,17 @@
   <p>Welcome to my page! </br> I'm Andres, student from <img src="https://cdn-icons-png.flaticon.com/256/197/197397.png" width="13"/> <b>Guadalajara, México</b>, studying at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png" width="13"/> <b>Tecnológico de Monterrey</b>. </p>
 
   
-  - 🔭 I’m currently im my second year of <b>Computer Science</b> at <b>Tecnológico de Monterrey </b>
-  - 🌱 I’m currently learning Machine Learning and AI
-  - 💬 I REALLY like [Astronomy](https://youtu.be/9XFyngt1dk0?t=1268), and [Peanuts](https://www.chess.com/member/sciencepal)
-  - 🗿 Worked with <b>Convolutional Neural Networks</b>
+  - 🐏 I’m currently im my second year of <b>Computer Science</b> at <b>Tecnológico de Monterrey </b>
+  - 🖥️ I’m currently learning Machine Learning and AI
+  - 🔭 I REALLY like [Astronomy](https://youtu.be/9XFyngt1dk0?t=1268), and [Peanuts](https://www.chess.com/member/sciencepal)
+  - 🧠 Worked with <b>Convolutional Neural Networks</b>
   <img src="https://i.kym-cdn.com/photos/images/original/002/425/749/210" alt="My mission" align="right" width="200" height="auto" />
   
-  #### 📫 How to reach me:
+  #### How to reach me:
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/Antelisss/)  &nbsp;  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/antelis/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/antelisss/)  &nbsp; <a href="mailto:bantelis10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
-  #### 👨🏻‍💻 Languages and Tools <br />
+  #### Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -26,11 +26,13 @@
 
 ### Publications
 
-| 🎁 Name                                                   | ⭐ Stars                                                                                                  | 📚 Forks                                                                                                  | 🛎 Issues                                                                                                  | 📬 Pull requests                                                                                           |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [React PullToRefresh component](https://github.com/thmsgbrt/react-simple-pull-to-refresh)                | ![Stars](https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41)     | ![Forks](https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41)     | ![Issues](https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41)     | ![Pull Requests](https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41)     |
-| [Typescript & React Chrome Extension Starter](https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack) | ![Stars](https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41)     | ![Forks](https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41)     | ![Issues](https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41)     | ![Pull Requests](https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41)     |
-| [NodeJs Express TypeScript GraphQL Starter](https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter) | ![Stars](https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41)     | ![Forks](https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41)     | ![Issues](https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41)     | ![Pull Requests](https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41)     |
+| Title                                                                                                                      | Publication site                                                                                                 | Paper                                                                                                  | Poster                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [Convolutional neural network regression (CNNR) for estimating physical parameters of astrophysical binary black hole (BBH) systems](https://icml.cc/virtual/2023/affinity-workshop/21472#wse-detail-28347)                | [![Publication](https://img.shields.io/badge/2023-ICML-blue?style=plastic&link=https%3A%2F%2Ficml.cc%2Fvirtual%2F2023%2Faffinity-workshop%2F21472%23wse-detail-28347)](https://icml.cc/virtual/2023/affinity-workshop/21472#wse-detail-28347)    | [![Paper](https://img.shields.io/badge/Paper-grey?style=plastic&link=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DoM6WllcGqZ)](https://openreview.net/forum?id=oM6WllcGqZ)     | [![Poster](https://img.shields.io/badge/Poster-blue?style=plastic&link=https%3A%2F%2Fgithub.com%2FAntelis%2Fassets%2Fblob%2Fmain%2Ficmlposter.png)](https://github.com/Antelis/assets/blob/main/icmlposter.png) |
+
+
+
+
 
 
 
