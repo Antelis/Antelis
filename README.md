@@ -3,7 +3,7 @@
   
 
 <a href="https://en.wikipedia.org/wiki/Cueva_de_las_Manos"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/SantaCruz-CuevaManos-P2210651b.jpg" alt="Humanity" align="right" width="300" height="auto"/> </a>
-  <p>Welcome to my page! </br> I'm Andres, student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Guadalajara, México</b>, studying at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png" width="13"/> <b>Tecnológico de Monterrey</b>. </p>
+  <p>Welcome to my page! </br> I'm Andres, student from <img src="https://cdn-icons-png.flaticon.com/256/197/197397.png" width="13"/> <b>Guadalajara, México</b>, studying at <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Trollface_non-free.png/220px-Trollface_non-free.png" width="13"/> <b>Tecnológico de Monterrey</b>. </p>
 
   
   - 🔭 I’m currently im my second year of <b>Computer Science</b> at <b>Tecnológico de Monterrey </b>
