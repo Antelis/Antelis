@@ -1,7 +1,7 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
   ![](https://komarev.com/ghpvc/?username=Antelis&color=blue&style=plastic)
   
-<img src="https://i.kym-cdn.com/photos/images/original/002/425/749/210" alt="My mission" align="right" width="300" height="auto" />
+
 <a href="https://en.wikipedia.org/wiki/Cueva_de_las_Manos"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/SantaCruz-CuevaManos-P2210651b.jpg" alt="Humanity" align="right" width="300" height="auto"/> </a>
   <p>Welcome to my page! </br> I'm Andres, student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Guadalajara, México</b>, studying at <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Tecnológico de Monterrey</b>. </p>
 
@@ -10,7 +10,7 @@
   - 🌱 I’m currently learning Machine Learning and AI
   - 💬 I REALLY like [Astronomy](https://youtu.be/9XFyngt1dk0?t=1268), and [Peanuts](https://www.chess.com/member/sciencepal)
   - 🗿 Worked with <b>Convolutional Neural Networks</b>
-  
+  <img src="https://i.kym-cdn.com/photos/images/original/002/425/749/210" alt="My mission" align="right" width="300" height="auto" />
   #### 📫 How to reach me:
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp;  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/antelis/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/antelisss/)  &nbsp; <a href="mailto:bantelis10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
