@@ -12,9 +12,9 @@
   - 🧠 Worked with <b>Convolutional Neural Networks</b>  
   #### How to reach me:
 
-  <img src="https://i.kym-cdn.com/photos/images/original/002/425/749/210" alt="My mission" align="right" width="300" height="auto" />
 
-  
+   <img src="https://i.kym-cdn.com/photos/images/original/002/425/749/210" alt="My mission" align="right" width="280" height="auto" />
+
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/Antelisss/)  &nbsp;  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/antelis/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/antelisss/)  &nbsp; <a href="mailto:bantelis10@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>&nbsp;  [<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Lichess_logo_2019.png" width="3.5%"/>](https://lichess.org/@/Antelis)  &nbsp; [<img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png" width="3.5%"/>](https://www.chess.com/member/antelisss)  &nbsp; [<img src="https://img.wattpad.com/1576da3d6f951e9dbeb3acb6678684d7a41f0685/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f514534706a384373417149476f673d3d2d313233343834343036312e313666396162313139656563636136333933393531313631303031362e676966" width="3.5%"/>](https://www.chess.com/member/antelisss)  &nbsp;
   
   #### Languages and Tools <br />
@@ -24,6 +24,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+
+  
 
 ### Publications
 
